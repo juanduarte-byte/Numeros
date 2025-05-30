@@ -1,0 +1,54 @@
+## Archivos binarios y temporales
+bin/
+obj/
+
+## Archivos de configuración de usuarios
+*.user
+*.userosscache
+*.suo
+
+## Archivos de publicación
+*.Publish.xml
+
+## Configuraciones de Visual Studio
+.vscode/
+*.code-workspace
+
+## Carpetas y archivos del sistema
+*.DS_Store
+*.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+## Logs
+*.log
+
+## Archivos generados por dependencias
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Configuración del entorno de desarrollo
+*.env
+.env.*
+
+## Certificados de desarrollo
+*.pfx
+*.key
+*.cer
+
+## Archivos específicos de .NET
+*.dbmdl
+*.jfm
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.ncrunch*
+*.dotCover
+
+## Configuración de lanzamientos
+Properties/launchSettings.json
+
+## Directorios de paquetes
+packages/
+*.nupkg
+*.snupkg
